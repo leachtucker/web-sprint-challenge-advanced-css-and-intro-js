@@ -253,5 +253,32 @@ button:hover {
     .title-container div {
         width: 100%;
         height: 50vh;
+        margin-bottom: 2%;
+    }
+    .title-container hr {
+        width: 100%;
+    }
+    .artists-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .artist {
+        width: 80%;
+    }
+    .artist img {
+        width: 70%;
+        height: 20vh;
+    }
+    .artist a {
+        font-size: 1.5rem;
+    }
+    .artist .bio {
+        /* I don't care for how small this font (hard to read) is but it appears to be how the mobile example is styled */
+        font-size: 1.1rem;
+        text-align: center;
+    }
+    h1 {
+        font-size: 4rem;
+        font-weight: bold;
     }
 }
