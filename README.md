@@ -23,9 +23,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+    Web acessibility is the acessibility of a website to all types of people. We alter peices of our webpages to allow those with disabilities to easily use our websites--just like the wheelchair ramps are used in public facilities to give access to those who are physically disabled. Anybody should be able to access the web and use modern websites with ease. 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+    I can add alt text to images so that those who are visually impaired do not miss out on important pieces of content.
+    I can choose my colors carefully so that those who are color blind do not find it difficult to read text or not see important contrast. 
+    I can use semantic HTML so that a screen-reader has any easier time of conveying content to users. 
+    I can also use relative measurements for my font sizes so that users can manually adjust them, themselves. 
 3. How would you explain the concept of a variable to someone new to programming?
+    A variable is like a container that you can fit one *singular* object in to. The bag is only as container as it needs to be but it can be indefinitely large. For example, if I wanted to store the number 5 in to the container, I could do so. When accessing that container, it will relay to me only what I placed in it--in this case, the number 5. I could also fit a person in to that container, as that is also an object. When accessing the container, it would then relay to me the person. This person also has various properties and characteristics, so the bag will inherently contain that information also. In this case, when talking about an object it is important to note that an object could be anything!.. A number. A date. A sentence. A dog. A person. A *list* of other objects--such as, a list of people? Sure! 
 4. What is the purpose of using functions in code?
+    Functions are essentially reusable blocks of code. They work to keep your code dry, clean, nonrepetitive, and reusable!. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
